@@ -57,6 +57,7 @@
     "angular-ui-bootstrap": "2.2.0",
     "angular-ui-notification": "0.3.6",
     "ansi-regex": "4.1.0",
+    "arr-flatten": "^1.1.0",
     "body-parser": "1.17.1",
     "bootstrap": "3.3.7",
     "bootstrap3-dialog": "1.35.4",

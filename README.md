@@ -31,7 +31,7 @@ Being used by
 - [Weifund](http://weifund.io/)
 - StabL
 
-Install
+Install - Deprecated stuff, use the Readme file from dapp folder
 -------------
 ```
 # For Ubuntu/Debian you need to install libusb development headers
